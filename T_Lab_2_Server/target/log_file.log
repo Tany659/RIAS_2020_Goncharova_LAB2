@@ -1,0 +1,9 @@
+2020-04-27 22:29:59 INFO  root:18 - server port 8080
+2020-04-27 22:30:35 INFO  root:26 - client accept Socket[addr=/127.0.0.1,port=59826,localport=8080]
+2020-04-27 22:30:35 INFO  root:27 - client ID 8
+2020-04-27 22:30:43 INFO  root:64 - client send 123
+2020-04-27 22:31:17 INFO  root:68 - logLevel setall
+2020-04-27 22:31:26 DEBUG root:58 - client diconnectSocket[addr=/127.0.0.1,port=59826,localport=8080]
+2020-04-27 22:31:33 INFO  root:26 - client accept Socket[addr=/127.0.0.1,port=59834,localport=8080]
+2020-04-27 22:31:33 INFO  root:27 - client ID 9
+2020-04-27 22:31:39 DEBUG root:58 - client diconnectSocket[addr=/127.0.0.1,port=59834,localport=8080]
